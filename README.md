@@ -1,4 +1,4 @@
-# Titanic Veri Setinde Koşullu Eksik Değer Doldurma (Class-Based Imputation)
+# Titanic Veri Setinde Koşullu Eksik Değer Doldurma (Class-Based Imputation).
 
 Veri madenciliği ve modelleme süreçlerinde en çok karşılaşılan sorunlardan biri eksik verilerdir. Bu çalışmada, Titanic veri setindeki eksik yaş (`Age`) değerlerini doğrudan tüm veri setinin ortalamasıyla doldurmak yerine, verinin alt gruplarındaki örüntüyü koruyarak bilet sınıflarına (`Pclass`) göre koşullu olarak doldurdum.
 
