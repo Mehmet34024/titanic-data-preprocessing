@@ -18,7 +18,7 @@ Veriyi bilet sınıflarına (`Pclass`) göre gruplayıp yaş ortalamalarına bak
 
 ---
 
-## Uygulama ve Kodun Mantığı
+## Uygulama ve Kodun Mantığı:
 
 Bu işlemi döngülerle (for loop) uğraşmadan, Pandas'ın vektörize operasyonlarıyla tek satırda çözüyoruz:
 
