@@ -2,7 +2,7 @@
 
 Veri madenciliği ve modelleme süreçlerinde en çok karşılaşılan sorunlardan biri eksik verilerdir. Bu çalışmada, Titanic veri setindeki eksik yaş (`Age`) değerlerini doğrudan tüm veri setinin ortalamasıyla doldurmak yerine, verinin alt gruplarındaki örüntüyü koruyarak bilet sınıflarına (`Pclass`) göre koşullu olarak doldurdum.
 
-## Problem ve Karşılaşılan Durum:
+## Problem ve Karşılaşılan Durum
 Veri setini yükleyip eksik değer kontrolü yaptığımızda:
 - `Age` değişkeninde **177 adet** eksik değer (NaN) bulunuyor.
 - `Cabin` değişkeninde **687**, `Embarked` değişkeninde ise **2** eksik değer mevcut.
